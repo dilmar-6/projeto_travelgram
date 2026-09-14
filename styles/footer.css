@@ -3,8 +3,9 @@ footer {
   align-items: center;
   gap: 24px;
   padding-block: 24px;
+  font: 14px/150% var(--font-family);
 }
 
 footer span:first-child {
-margin-right: auto;
+  margin-right: auto;
 }
