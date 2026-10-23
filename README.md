@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assents/banner-aprentacao.png" alt="Banner do Formulário de Matrícula" width="800">
+</p>
+
+
 # 🌍 Travelgram
 
 Travelgram é uma página de perfil de viagens desenvolvida para praticar a construção de interfaces web modernas e responsivas.
