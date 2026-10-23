@@ -2,9 +2,8 @@
 
 Travelgram é uma página de perfil de viagens desenvolvida para praticar a construção de interfaces web modernas e responsivas.
 
-O projeto apresenta o perfil de uma viajante, informações sobre suas viagens e uma galeria de fotografias dos lugares visitados.
 
-## ✨ Preview
+ ✨ Preview
 
 A interface contém:
 
@@ -25,7 +24,7 @@ A interface contém:
 - CSS Grid
 - Design responsivo
 
-## 📚 Objetivo
+ 📚 Objetivo
 
 Este projeto foi desenvolvido como parte dos meus estudos de desenvolvimento web, com foco em:
 
@@ -36,11 +35,11 @@ Este projeto foi desenvolvido como parte dos meus estudos de desenvolvimento web
 - Responsividade
 - Reprodução de interfaces a partir de referências visuais
 
-## 🎨 Interface
+ 🎨 Interface
 
 O projeto possui uma interface inspirada em plataformas de viagens, com foco em uma apresentação visual limpa e organizada.
 
-### Perfil
+ Perfil
 
 O cabeçalho apresenta:
 
@@ -51,13 +50,8 @@ O cabeçalho apresenta:
 - Número de países visitados
 - Número de fotografias
 
-### Galeria
+Galeria
 
 A seção principal apresenta uma coleção de fotografias organizadas em uma grade, criando uma experiência semelhante a um perfil de uma plataforma de viagens.
 
-## 🚀 Como executar
 
-Clone este repositório:
-
-```bash
-git clone https://github.com/seu-usuario/travelgram.git
